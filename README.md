@@ -67,10 +67,18 @@ CREATE TABLE account (
 );
 <br>
 Covered Concepts:
+<br>
 Object-oriented programming
+<br>
 Encapsulation
+<br>
 Classes and objects
+<br>
 Methods
+<br>
 Access modifiers
+<br>
 JDBC concepts
+<br>
 CRUD operations in a database
+<br>
