@@ -48,7 +48,9 @@ Columns: full name, email, password
 <br>
 Database queries : 
 <br>
+<br>
 CREATE DATABASE banking_system;
+<br>
 USE banking_system;
 <br>
 CREATE TABLE users (
