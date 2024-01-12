@@ -51,7 +51,9 @@ Database queries :
 <br>
 CREATE DATABASE banking_system;
 <br>
+<br>
 USE banking_system;
+<br>
 <br>
 CREATE TABLE users (
     full_name VARCHAR(255),
@@ -60,6 +62,7 @@ CREATE TABLE users (
     PRIMARY KEY (full_name, email, password)
 );
 <br>
+<br>
 CREATE TABLE account (
     account_number BIGINT PRIMARY KEY,
     fullname VARCHAR(255) NOT NULL,
@@ -67,6 +70,7 @@ CREATE TABLE account (
     balance DECIMAL(10, 2) NOT NULL,
     security_pin CHAR(4) NOT NULL
 );
+<br>
 <br>
 Covered Concepts:
 <br>
